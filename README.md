@@ -39,11 +39,3 @@
 <div align="center">
   <p>Feito com :heart: e html.</p>
 </div>
-
- <br>
- 
-<div align="center">
-
-  ![Snake animation](https://github.com/SarahElesbao/SarahElesbao/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
