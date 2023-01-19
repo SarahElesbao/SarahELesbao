@@ -7,7 +7,7 @@
  Este é um resumo de quem eu sou, estou a disposição para novas oportunidades, só entrar em contato comigo!
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
+  <a href="https://github.com/SarahElesbao">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SarahElesbao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahElesbao&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
