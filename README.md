@@ -6,13 +6,6 @@
 * Atualmente estou a procura de uma nova oportunidade para desenvolver minhas habilidades, estou sempre buscando ter conhecimentos na área da tecnologia e me aperfeiçoando para exerce-la no mercado e ser uma profissional sucedida somando e crescendo junto com a empresa.
  Este é um resumo de quem eu sou, estou a disposição para novas oportunidades, só entrar em contato comigo!
 
-<div align="center">
-  <a href="https://github.com/SarahElesbao">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SarahElesbao&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SarahElesbao&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
-
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="rails" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg">
