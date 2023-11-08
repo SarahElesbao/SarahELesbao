@@ -3,8 +3,8 @@
     <a href="https://www.linkedin.com/in/sarah-elesbao/"> Sarah Elesbão😃️</a>
   </h1>
 
-* Atualmente estou a procura de uma nova oportunidade para desenvolver minhas habilidades, estou sempre buscando ter conhecimentos na área da tecnologia e me aperfeiçoando para exerce-la no mercado e ser uma profissional sucedida somando e crescendo junto com a empresa.
- Este é um resumo de quem eu sou, estou a disposição para novas oportunidades, só entrar em contato comigo!
+* Atualmente sou Analista de QA, testo as aplicações e a documentação de projetos, tenho habilidades de desenvolver UML e tenho entendimento com Banco de dados (SQL). Estou sempre buscando ter conhecimentos na área da tecnologia e me aperfeiçoando para exerce-la no mercado e ser uma profissional sucedida somando e crescendo junto com a empresa.
+ Este é um resumo de quem eu sou, estou a disposição para novas oportunidades, só entrar em contato comigo! Abaixo estão todas as linguagens pela qual já trabalhei e estudei
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
